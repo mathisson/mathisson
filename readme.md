@@ -10,3 +10,12 @@
 (__/    '|    \ _)_|           |_)_/            \__)|        '       |   |
   |_____'|_____|   \__________/   |              | `_________'________`;-'
    '----------'    '----------'   '--------------'`--------------------`
+```
+
+
+![followers][follow-shield]
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[follow-shield]: https://shields.io/github/followers/mathisson?label=Follow
