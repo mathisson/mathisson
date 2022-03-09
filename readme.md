@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mathisson
-- 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning JS, ASP.NET
-- 📫 How to reach me iQuery#0001
+- 👋 Hi, I’m Victor @Mathisson
+- 👀 I’m interested in Webdevelopment and building mechanical keyboards.
+- 🌱 I’m currently studying Webdevelopment ASP.NET
+- 📫 Easiest way to reach me is trough Discord `iquery#0001`
 - 😎 Most of my source codes are from school project and private but I will try publishing more code to the public.
 
 
