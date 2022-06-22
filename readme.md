@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Victor @Mathisson
-- 👀 I’m interested in Webdevelopment and building mechanical keyboards.
 - 🌱 I’m currently studying Webdevelopment ASP.NET
 - 📫 Easiest way to reach me is trough Discord `vctr#0001`
 - 😎 Most of my source codes are from school project and private but I will try publishing more code to the public.
